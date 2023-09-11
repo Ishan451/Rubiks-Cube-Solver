@@ -8,4 +8,3 @@ To enhance it further, I have finally implemented IDA* algorithm along with Corn
 the paper published by Richard E. Korf on "Finding optimal solutions to Rubik's Cube using Pattern Databases".
 
 The algorithm can solve a Rubik's Cube jumbled up to 10-12 times at its best version.
-# Rubiks-Cube-Solver
